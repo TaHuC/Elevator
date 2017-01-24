@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/Elevator/Elevator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/Elevator/Elevator/bin/Debug/Elevator.exe.mdb
+/Users/TaHuC/Projects/Elevator/Elevator/bin/Debug/Elevator.exe
+/Users/TaHuC/Projects/Elevator/Elevator/obj/x86/Debug/Elevator.exe
+/Users/TaHuC/Projects/Elevator/Elevator/obj/x86/Debug/Elevator.exe.mdb
